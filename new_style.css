@@ -1,0 +1,41 @@
+body {
+  background-color: teal;
+}
+
+h1{
+  text-align: center;
+}
+
+h3{
+  color: #ff80bf;
+  text-shadow: 2px 2px #ff0000;
+  font-size: 16px;
+  font-family: "Garamond", sans-serif;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 14px;
+  font-family: "Veranda", sans-serif;
+  text-align: center;
+}
+h2 {
+  font-family: "Veranda", sans-serif;
+  text-align: center;
+}
+
+
+ul{
+  color: white;
+  font-aligh: center;
+}
+
+footer{
+  text-align: center;
+  color: darkblue;
+}
